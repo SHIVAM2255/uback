@@ -12,5 +12,10 @@
         "dest": "/"
       }
     ]
+    "env": {
+    
+    "JWT_SECRET": "your-jwt-secret",
+    "PORT": "5000"
+  }
 }    
 
